@@ -16,4 +16,5 @@ En esta prueba he respetado casi al 100% el diseño que se ha propuesto con algu
 6: En este caso he utilizado la librería de "Fontawesome" para los iconos, porque los he reconocido en el prototipo de Figma. Lo óptimo sería descargar los iconos en .svg y guardarlos en local para evitar problemas de carga o de actualizaciones de la librería.
 
 Espero que el cógido esté a la altura. De cualquier manera me estoy formando en SCSS/SASS y si esa es la línea en la que se maqueta en la empresa no tendría ningún problema en empezar a desarrollar así los proyectos.
+
 Gracias por la oportunidad :)
